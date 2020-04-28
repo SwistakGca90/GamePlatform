@@ -1,0 +1,14 @@
+{
+  "name": "mmorpg",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "binary-parser": "*",
+    "extend": "*",
+    "minimist": "*",
+    "mongodb": "^2.2.33",
+    "mongoose": "*",
+    "performance-now": "*",
+    "underscore": "*"
+  }
+}
